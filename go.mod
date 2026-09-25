@@ -1,4 +1,4 @@
-module github.com/secDre4mer/go-ionice
+module github.com/NextronSystems/go-ionice
 
 go 1.18
 

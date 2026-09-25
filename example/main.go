@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/secDre4mer/go-ionice"
+	"github.com/NextronSystems/go-ionice"
 )
 
 func main() {
